@@ -28,13 +28,19 @@ Here are some guidelines for installing the project on your local machine in ord
 
 ## Testing E-Commerce Database Connection
 
-https://drive.google.com/file/d/189PKxUzdNIDJRwNOgb-ygmjL2uvzK-_E/view?usp=sharing
+
+https://user-images.githubusercontent.com/34521827/129726241-b307ecbc-baf5-4d92-b8c4-c7a35f9080e5.mp4
+
+
+
+https://user-images.githubusercontent.com/34521827/129726291-5087d338-89e2-4e66-980d-00a8b26c40e7.mp4
+
 
 ## Testing PUT,GET,POST,DELETE
 
-https://drive.google.com/file/d/1-9E2KBkCJpIfj4mG5DsKGPjUsUrIQGLe/view?usp=sharing
+https://drive.google.com/file/d/1-9E2KBkCJpIfj4mG5DsKGPjUsUrIQGLe/view?usp=sharing (File was too big, so I saved this to my drive.
 
-https://drive.google.com/file/d/17kACjme06BLqIJlu3FPETrlU9RqBfyS_/view?usp=sharing
+https://user-images.githubusercontent.com/34521827/129726291-5087d338-89e2-4e66-980d-00a8b26c40e7.mp4
 
 
 ## **_Link URL to GitHub Repository_**
