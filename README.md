@@ -26,5 +26,16 @@ Here are some guidelines for installing the project on your local machine in ord
 
 4. Enjoy and don't hesitate to contribute!
 
+## Testing E-Commerce Database Connection
+
+https://drive.google.com/file/d/189PKxUzdNIDJRwNOgb-ygmjL2uvzK-_E/view?usp=sharing
+
+## Testing PUT,GET,POST,DELETE
+
+https://drive.google.com/file/d/1-9E2KBkCJpIfj4mG5DsKGPjUsUrIQGLe/view?usp=sharing
+
+https://drive.google.com/file/d/17kACjme06BLqIJlu3FPETrlU9RqBfyS_/view?usp=sharing
+
+
 ## **_Link URL to GitHub Repository_**
 https://github.com/PrinceAdelXX/E-Commerce-Back-End
