@@ -33,9 +33,6 @@ https://user-images.githubusercontent.com/34521827/129726241-b307ecbc-baf5-4d92-
 
 
 
-https://user-images.githubusercontent.com/34521827/129726291-5087d338-89e2-4e66-980d-00a8b26c40e7.mp4
-
-
 ## Testing PUT,GET,POST,DELETE
 
 https://drive.google.com/file/d/1-9E2KBkCJpIfj4mG5DsKGPjUsUrIQGLe/view?usp=sharing (File was too big, so I saved this to my drive.
